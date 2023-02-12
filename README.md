@@ -43,7 +43,11 @@
 
 <br/>  
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=surajrawat1709&theme=dark&hide_border=false)<br/>
+<p align="center">
+    <a href="https://github.com/Surajrawat1709/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Suraj RAwat's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Surajrawat1709&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
