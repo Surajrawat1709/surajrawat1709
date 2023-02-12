@@ -83,5 +83,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=surajrawat1709&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-![Profile views counter](https://komarev.com/ghpvc/?username=surajrawat1709&&style=flat-square)  
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Surajrawat1709">
+</a>
 
