@@ -7,16 +7,16 @@
 ### <div align="center">I'm Suraj, a full-time full-stack developer 💻</div>  
   
 
-- 🔭 I’m currently working at Persistent Systems  
+- 🔭 I’m currently working at **Persistent Systems**  
   
 
-- 🌱 I’m currently learning Spring Boot.  
+- 🌱 I’m currently learning **React.  
   
 
 - ❓ Ask me about anything related to Java and Spring Boot, I will try to answer.  
   
 
-- ⚡Reach me at [surajrawat1709@gmail.com](surajrawat1709@gmail.com)  
+- ⚡Reach me at **Surajrawat1709@gmail.com**  
   
 
 <br/>  
