@@ -10,7 +10,7 @@
 - 🔭 I’m currently working at **Persistent Systems**  
   
 
-- 🌱 I’m currently learning **React.  
+- 🌱 I’m currently learning **React**.  
   
 
 - ❓ Ask me about anything related to Java and Spring Boot, I will try to answer.  
