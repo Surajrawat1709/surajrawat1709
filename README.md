@@ -43,6 +43,7 @@
 
 <br/>  
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=surajrawat1709&theme=dark&hide_border=false)<br/>
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
@@ -63,9 +64,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/suraj-singh-rawat) [![Leetcode](https://cdn.iconscout.com/icon/free/png-512/leetcode-3521542-2944960.png?f=avif&w=25)](https://leetcode.com/suraj2403/) 
 
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=surajrawat1709&theme=dark&hide_border=false)<br/>
 
 
 ## 🏆 GitHub Trophies
