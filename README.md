@@ -83,5 +83,5 @@
 ![](https://github-profile-trophy.vercel.app/?username=surajrawat1709&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=surajrawat1709&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile views counter](https://komarev.com/ghpvc/?username=surajrawat1709&&style=flat-square)  
 
