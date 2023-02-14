@@ -4,7 +4,7 @@
 </div>  
   
 
-### <div align="center">I'm Suraj, a full-time full-stack developer 💻</div>  
+### <div align="center">I'm Suraj, a full-time Java developer 💻</div>  
   
 
 - 🔭 I’m currently working at **Persistent Systems**  
