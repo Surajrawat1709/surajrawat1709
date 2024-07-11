@@ -7,12 +7,8 @@
 ### <div align="center">I'm Suraj, a full-time Java developer 💻</div>  
   
 
-- 🔭 I’m currently working at **Persistent Systems**  
+- 🔭 Software Engineer with over 2 years of experience in developing and maintaining robust web applications. Proficient in  **Java:**, **Spring Boot:**, **Angular**, **MySQL** and **AWS.**   
   
-
-- 🌱 I’m currently learning **Angular 17**.  
-  
-
 - ❓ Ask me about anything related to Java and Spring Boot, I will try to answer.  
   
 
