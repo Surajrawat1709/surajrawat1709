@@ -7,7 +7,7 @@
 ### <div align="center">I'm Suraj, a full-time Java developer 💻</div>  
   
 
--  Software Engineer with over 2 years of experience in developing and maintaining robust web applications. Proficient in  **Java**, **Spring Boot**, **Angular**, **MySQL** and **AWS**   
+-  Software Engineer with over 3.5 years of experience in developing and maintaining robust web applications. Proficient in  **Java**, **Spring Boot**, **Angular**, **MySQL** and **AWS**   
   
 -  Ask me about anything related to Java and Spring Boot, I will try to answer.  
   
